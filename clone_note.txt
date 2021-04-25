@@ -1,0 +1,8 @@
+I just created Empty Remote repository from GitHub.com account by clicking on the plus icon on the right corner and new repository and give name and click create
+
+
+
+
+And Cloned this repository by clicking on set up in Desktop and optionally select the location click on clone
+
+It cloned out note repo o local so we can start working locally
